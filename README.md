@@ -1,9 +1,10 @@
 ﻿# HOSE
+ 
 `A flexible tube conveying data.`
 
 #### Minecraft Server with Multi-core CPU.
 
-*   It`s based on Spigot v1.11.2. See http://www.spigotmc.org/ for details.
+*   It's based on Spigot v1.11.2. See http://www.spigotmc.org/ for details.
 
 #### Software & Hardware Requirements
 
