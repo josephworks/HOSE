@@ -1,4 +1,4 @@
-﻿# HOSE
+# HOSE
  
 `A flexible tube conveying data.`
 
