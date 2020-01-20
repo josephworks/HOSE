@@ -5,6 +5,7 @@
 #### Minecraft Server with Multi-core CPU.
 
 *   It's based on Spigot v1.11.2. See http://www.spigotmc.org/ for details.
+*   NOT 1.15.X COMPATIBLE!
 
 #### Software & Hardware Requirements
 
